@@ -242,13 +242,29 @@ description: List of features under or pending development
 
 **date start**: 1.1.2018
 
-## 2017-07-04 .5 Donors can track \(reuse\) their donations {#2018-06-04-1-report-hours-of-usage}
+## 2017-07-04 .5-6 Donors can track \(reuse/recycle\) their donations {#2018-06-04-1-report-hours-of-usage}
 
-**description**: \(RE3.1\) al donant fer seguiment del dispositius donants \(agents, ubicació, preu adquisició\). El intermediador exporta un excel i li fa arribar al donant. Almenys mostrar cadena de receives \(com canvis d'organització\).
+**description**: \(RE3.1\) El donant pot fer seguiment del dispositius donants \(agents, ubicació, preu adquisició\). El intermediador exporta un excel i li fa arribar al donant. Almenys mostrar cadena de receives \(com canvis d'organització\). \(RE3.2\) al donant pugui saber qui i on es reciclaran transcorreguts uns anys després de múltiples cicles de reutilització \(certificat de reciclatge\). Aquí  volem saber els estats.
+
+Exemple:
+
+| id device | id agent | device status | date | price |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1001 | 199 \(Aj Barcelona\) | transfered property | 1.1.2018 |  |
+| 1001 | 1 \(Pangea\) | received property | 2.1.2018 |  |
+| 1001 | 2 \(Solidança\) | received physical | 3.1.2018 |  |
+| 1001 | 2 \(Solidança\) | registered device | 4.1.2018 |  |
+| 1001 | 3 \(Solidança\) | refurbished device | 5.1.2018 |  |
+| 1001 | 4 \(Donalo\) | sell services | 6.1.2018 | 80€ |
+| 1001 | 1 \(Pangea\) | transfered usufruct | 7.2.2018 |  |
+| 1001 | 255 \(Escola\) | received usufruct | 8.2.2018 |  |
+| 1001 | 255 \(Escola\) | received physical | 9.2.2018 |  |
+| 1001 | 255 \(Escola\) | alive | 10.2.2018 |  |
+|  |  |  |  |  |
 
 **status:** draft / revised / pending funding / **development** / developed
 
-**more info**: taiga.....
+**more info**: [https://tree.taiga.io/project/ereuseorg/epic/307](https://tree.taiga.io/project/ereuseorg/epic/307)
 
 **release**: DeviceHub antic.
 
@@ -258,21 +274,7 @@ description: List of features under or pending development
 
 **date start**: 1.1.2018
 
-## 2017-07-04 .6 Donors can track \(recycle\) their donations {#2018-06-04-1-report-hours-of-usage}
-
-**description**: \(RE3.2\) al donant pugui saber qui i on es reciclaran transcorreguts uns anys després de múltiples cicles de reutilització \(certificat de reciclatge\). Aquí  volem saber els estats.
-
-**status:** draft / revised / pending funding / **development** / developed
-
-**more info**: taiga.....
-
-**release**: DeviceHub antic.
-
-**founder**: Ajuntament de Barcelona
-
-**cost**: 
-
-**date start**: 1.1.2018
+##  {#2018-06-04-1-report-hours-of-usage}
 
 ## 2017-07-04 .7 Citizens can restore their devices and offer them to third parties {#2018-06-04-1-report-hours-of-usage}
 
