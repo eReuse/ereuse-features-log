@@ -24,7 +24,7 @@ description: List of features under or pending development
 
 * if there has been funding and there is a change, it should be reworded in the description and the previous version should be added here
 
-## 2018-07-17 .1 Integrate DeviceHub and Wordpress + Woo commerce <a id="2018-06-04-1-report-hours-of-usage"></a>
+## 2018-07-17 .1 Integrate DeviceHub and Wordpress + Woo commerce <a id="woo-commerce"></a>
 
 description: Integrar el devicehub con el wordpress y el módulo woo commerce de wordpress
 
@@ -38,7 +38,7 @@ description: Integrar el devicehub con el wordpress y el módulo woo commerce de
 
 **date start:** 1.1.2019
 
-## 2018-07-16 .1 Product as a service Model <a id="2018-06-04-1-report-hours-of-usage"></a>
+## 2018-07-16 .1 Product as a service Model <a id="paas"></a>
 
 **description**: Desenvolupament del programari requerit per a fer evolucionar el model negoci des de la venda d’equips de segona mà cap a la servitització d'equips. Enguany la plataforma eReuse calcula els costos en base a venta amb 1 any o 2 anys de garantia. La proposta es oferir la possibilitat de contractar un servei per dies d'ús. El model de servitització teòric desenvolupat per inèdit ha d'implementar-se a la plataforma i ser transparent a tots els seus actors, especialment cap als donants que els donen gratuïtament i que estableixen que la condició per a fer-ne la donació no es generi lucre i que tan sols es compensi els costos dels serveis necessaris per a la servitització. Afecta a interfícies, informes i model de costos. Aclariment: Els equips de millor prestació tenen un cost de servitització major doncs se'ls imputa costos com els de i+d i altres que no s'imputen als de prestacions menors.
 
